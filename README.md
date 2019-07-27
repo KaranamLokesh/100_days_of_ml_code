@@ -7,3 +7,5 @@ I have a passion for medicine and deep learning, so focusing my 100 Days of ML C
 Set up a repository and perused medical datasets to begin with cleaning, EDA, and visualization projects. I eventually decided on starting with the arrhythmia dataset found at: http://archive.ics.uci.edu/ml/datasets/Arrhythmia <br>
 I'm not certain what the greater project or application will be, I'll keep an open mind for now while working through some of the basics.
 
+## Day 1 - July 26,  2019
+Started a basic analysis of the dataset when I noticed one column had many missing values and decided to use the opportunity to highlight the effects of imputation and interpolation methods on the distribution.
